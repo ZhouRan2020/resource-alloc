@@ -2,7 +2,7 @@
  clc;
  close all;
  
-%% system parameter
+%% system parameters
 N_UT = 100; % total user number 200
 N = 10; % total beam spot number 60
 radius_cov = 300e3; % total covered radius 300e3(NJ-SH),5947e3(China-Ukraine)
